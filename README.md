@@ -1,1 +1,2 @@
-# ruby-chess
+# Ruby Project: Chess
+My implementation of chess
